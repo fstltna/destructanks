@@ -1,0 +1,86 @@
+Initialize engine version: 5.1.5f1 (9de525f1a6a8)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.10.1666]
+    Renderer: Mobile Intel(R) GM45 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     1536 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Mad2D.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Mad2D.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\MadCommons.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\MadCommons.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\ES2.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\ES2.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\MoodkieSecurity.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\MoodkieSecurity.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\KDTree.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Triangle.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\Triangle.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.186 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+Platform assembly: Z:\home\marisag\Downloads\destructanks_v1_win\Destructanks_v1_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/NFAA' - Setting to default shader.
+(0) In Level Loaded: 0. TitleScene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+BGM activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Playing: Destructanks_Title
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Wasn't playing anything, crossing in.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+No GameManager found in the scene so we have created one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
